@@ -1,4 +1,4 @@
-# Sales Dashboard Project
+# Data analysis using Ms Excel and AI
 
 ## 📊 Project Overview
 This project is a professional Excel sales dashboard created using Microsoft Excel and AI-assisted analysis.
